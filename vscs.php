@@ -67,7 +67,7 @@ function vscs_section_callback() {
 
 function vscs_field_callback() {
     $vscs_setting = esc_textarea( get_option( 'vscs-setting' ) );
-    echo "<textarea name='vscs-setting' rows='15' cols='60' maxlength='1500'>$vscs_setting</textarea>";
+    echo "<textarea name='vscs-setting' rows='15' cols='60' maxlength='2000'>$vscs_setting</textarea>";
 }
 
 

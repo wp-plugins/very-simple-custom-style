@@ -4,7 +4,7 @@ Version: 1.0
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.7
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: trunk
 Tags: simple, custom, style, stylesheet, css, editor
 
@@ -48,7 +48,7 @@ Then go to page Settings > VSCS Custom Style and enter your Custom Style (CSS on
 Example: #header {background:#000; color:#fff;}
 
 = How much CSS can I enter? =
-I have set it on max. 1500 characters.
+I have set it on max. 2000 characters.
 
 = Other question or comment? =
 Please open a topic in plugin forum or send me a message via my website.
