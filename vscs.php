@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Very Simple Custom Style
  * Description: This is a very simple plugin to add Custom Style (CSS) to change your theme or plugin layout. For more info please check readme file.
- * Version: 1.0
+ * Version: 1.1
  * Author: Guido van der Leest
  * Author URI: http://www.guidovanderleest.nl
  * License: GNU General Public License v3 or later

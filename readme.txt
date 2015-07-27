@@ -1,6 +1,6 @@
 === Very Simple Custom Style ===
 Contributors: Guido07111975
-Version: 1.0
+Version: 1.1
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.7
@@ -10,6 +10,9 @@ Tags: simple, custom, style, stylesheet, css, editor
 
 
 == Changelog ==
+Version 1.1
+- updated language files
+
 Version 1.0
 - first stable release
 
@@ -17,17 +20,21 @@ Version 1.0
 == Description ==
 This is a very simple plugin to add Custom Style (CSS) to change your theme or plugin layout.
 
+Question? Please take a look at the FAQ section.
+
+
 = Translation =
 Dutch translation included. Only things that can be translated are dashboard name, plugin description and settingspage. More translations are very welcome! Please contact me via my website.
+
 
 = Credits =
 Without the WordPress codex and help from the WordPress community I was not able to develop this plugin, so: thank you!
 
-I used this tutorial for developing the Very Simple Custom Style plugin:
+I have used this tutorial for developing the Very Simple Custom Style plugin:
 
 http://kovshenin.com/2012/the-wordpress-settings-api
 
-This script is released under the GNU General Public License v3 or later.
+This tutorial is released under the GNU General Public License v3 or later.
 
 Enjoy,
 Guido
