@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Very Simple Custom Style
  * Description: This is a very simple plugin to add Custom Style (CSS) to change your theme or plugin layout. For more info please check readme file.
- * Version: 1.1
+ * Version: 1.2
  * Author: Guido van der Leest
  * Author URI: http://www.guidovanderleest.nl
  * License: GNU General Public License v3 or later
@@ -76,12 +76,14 @@ function vscs_options_page() {
 ?>
 <div class="wrap"> 
 	<div id="icon-plugins" class="icon32"></div> 
-	<h2><?php _e( 'Very Simple Custom Style', 'customstyle' ); ?></h2> 
+	<h1><?php _e( 'Very Simple Custom Style', 'customstyle' ); ?></h1> 
 	<form action="options.php" method="POST">
 	<?php settings_fields( 'vscs-options' ); ?>
 	<?php do_settings_sections( 'vscs' ); ?>
 	<?php submit_button(__('Save Style', 'customstyle')); ?>
 	</form>
+	<p><?php _e( 'If you want to change the layout of your theme or plugin you should first look for the div or class of the element you want to change.', 'customstyle' ); ?></p>
+	<p><?php _e( 'So first you should inspect your theme or plugin.', 'customstyle' ); ?></p>
 </div>
 <?php
 }

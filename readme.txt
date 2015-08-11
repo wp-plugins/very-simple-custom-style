@@ -1,15 +1,19 @@
 === Very Simple Custom Style ===
 Contributors: Guido07111975
-Version: 1.1
+Version: 1.2
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.7
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: trunk
 Tags: simple, custom, style, stylesheet, css, editor
 
 
 == Changelog ==
+Version 1.2
+- updated files and readme
+- updated language files
+
 Version 1.1
 - updated language files
 
@@ -30,9 +34,7 @@ Dutch translation included. Only things that can be translated are dashboard nam
 = Credits =
 Without the WordPress codex and help from the WordPress community I was not able to develop this plugin, so: thank you!
 
-I have used this tutorial for developing the Very Simple Custom Style plugin:
-
-http://kovshenin.com/2012/the-wordpress-settings-api
+I have used <a href="https://kovshenin.com/2012/the-wordpress-settings-api">this</a> tutorial for developing this plugin.
 
 This tutorial is released under the GNU General Public License v3 or later.
 
@@ -43,7 +45,7 @@ Guido
 == Installation == 
 After installation go to page Settings > VSCS Custom Style and start changing the layout of your theme or plugin.
 
-Example: #header {background:#000; color:#fff;}
+Example: #header {padding:20px 0; background:#000; color:#fff;}
 
 
 == Frequently Asked Questions ==
@@ -52,7 +54,7 @@ If you want to change the layout of your theme or plugin you should first look f
 
 Then go to page Settings > VSCS Custom Style and enter your Custom Style (CSS only). 
 
-Example: #header {background:#000; color:#fff;}
+Example: #header {padding:20px 0; background:#000; color:#fff;}
 
 = How much CSS can I enter? =
 I have set it on max. 2000 characters.
