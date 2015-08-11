@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Very Simple Custom Style\n"
-"POT-Creation-Date: 2015-07-27 09:18+0200\n"
-"PO-Revision-Date: 2015-07-27 09:17+0200\n"
+"POT-Creation-Date: 2015-08-11 22:22+0200\n"
+"PO-Revision-Date: 2015-08-11 22:22+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -44,6 +44,16 @@ msgstr ""
 
 #: vscs.php:83
 msgid "Save Style"
+msgstr ""
+
+#: vscs.php:85
+msgid ""
+"If you want to change the layout of your theme or plugin you should first "
+"look for the div or class of the element you want to change."
+msgstr ""
+
+#: vscs.php:86
+msgid "So first you should inspect your theme or plugin."
 msgstr ""
 
 #. Description of the plugin/theme
