@@ -1,6 +1,6 @@
 === Very Simple Custom Style ===
 Contributors: Guido07111975
-Version: 1.3
+Version: 1.4
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.7
@@ -10,6 +10,9 @@ Tags: simple, custom, style, stylesheet, css, editor
 
 
 == Changelog ==
+Version 1.4
+- changed text domain for the wordpress.org translation system
+
 Version 1.3
 - updated language files
 
