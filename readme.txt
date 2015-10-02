@@ -1,6 +1,6 @@
 === Very Simple Custom Style ===
 Contributors: Guido07111975
-Version: 1.2
+Version: 1.3
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.7
@@ -10,8 +10,11 @@ Tags: simple, custom, style, stylesheet, css, editor
 
 
 == Changelog ==
+Version 1.3
+- updated language files
+
 Version 1.2
-- updated files and readme
+- updated files vscs and readme
 - updated language files
 
 Version 1.1
@@ -50,7 +53,7 @@ Example: #header {padding:20px 0; background:#000; color:#fff;}
 
 == Frequently Asked Questions ==
 = How does it work? =
-If you want to change the layout of your theme or plugin you should first look for the div or class of the element you want to change. So first you should inspect your theme or plugin. 
+If you want to change the layout of your theme or plugin you should look for the element you want to change. So first you should inspect your theme or plugin. 
 
 Then go to page Settings > VSCS Custom Style and enter your Custom Style (CSS only). 
 
